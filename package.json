@@ -1,0 +1,23 @@
+{
+  "name": "img-resize",
+  "version": "0.0.1",
+  "description": "An image resizing app built with Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightenedOne/img-resize.git"
+  },
+  "author": "Dawson June",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightenedOne/img-resize/issues"
+  },
+  "homepage": "https://github.com/LightenedOne/img-resize#readme",
+  "devDependencies": {
+    "electron": "^11.0.2"
+  }
+}
+
